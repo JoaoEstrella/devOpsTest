@@ -1,5 +1,5 @@
 # We need to add arm64v8 architecture type to run it on RaspberryPi or other ARM based devices
-FROM armhf/python:3
+FROM arm32v7/python:3
 
 WORKDIR /usr/src/app
 
