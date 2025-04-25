@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-  return 'Welcome to the Raspberry Pi web application! joao'
+  return 'Welcome to the Raspberry Pi web application! joao lindo!'
